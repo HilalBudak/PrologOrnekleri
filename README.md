@@ -2,7 +2,7 @@
 Komut satırına ;
 
 
-swipl yazın
+#swipl yazın
 ?-['soyagaci.pl'].
 ?-ebeveyn(X,Y).
 ?-anne(X).
