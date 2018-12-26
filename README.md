@@ -1,6 +1,7 @@
 # PrologOrnekleri
 Komut satırına ;
 
+
 swipl yazın
 ?-['soyagaci.pl'].
 ?-ebeveyn(X,Y).
