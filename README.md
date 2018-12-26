@@ -1,12 +1,11 @@
 # PrologOrnekleri
-Komut satırına ;
-
-
-#swipl yazın
-?-['soyagaci.pl'].
+# Komut satırına swipl yazarak çalıştırın
+?-['soyagaci.pl].
 ?-ebeveyn(X,Y).
 ?-anne(X).
 ?-amca(X,Y).
-?-kizkardes(XİY).
+?-kizkardes(X,Y).
 
-şekilde sorgular yazabilirsiniz.
+
+
+
