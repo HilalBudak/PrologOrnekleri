@@ -1,4 +1,4 @@
-###Prolog Örnekleri
+# Prolog Örnekleri
 
 Komut satırına swipl yazarak çalıştırın
 - ?-['soyagaci.pl'].
